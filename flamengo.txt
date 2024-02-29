@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pedro 9 
+=======
+bruno henrique 
+>>>>>>> ee2698e8cf163f0dc5673baca0a96d7c768d4c69
